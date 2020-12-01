@@ -9,5 +9,5 @@ public class HomeQuotes {
         System.out.println("Also, \"\" represents an empty String.\n" +
                 "Don't forget: use \\\" instead of \" !\n" +
                 "'' is not the same as \" ");
-    }
+	}			
 }
