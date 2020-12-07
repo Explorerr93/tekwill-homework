@@ -1,6 +1,6 @@
 package com.tekwill.learning.basics;
 
-public class HomeQuotes {
+public class Quotes {
     public static void main(String[] args) {
         System.out.println("A \"quoted\" String is");
         System.out.println("'much' better if you learn");
