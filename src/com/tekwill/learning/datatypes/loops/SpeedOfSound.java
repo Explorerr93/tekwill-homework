@@ -20,7 +20,7 @@ public class SpeedOfSound {
                 System.out.printf("Sound will travel in the %s %.3f seconds", power, (distance / 16400));
                 break;
             default :
-                System.out.println("You have entered a wrong medium");
+                System.out.println("You have entered a wrong power!");
                 break;
         }
     }

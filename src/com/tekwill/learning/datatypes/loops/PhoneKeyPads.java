@@ -56,8 +56,8 @@ public class PhoneKeyPads {
                     leterSelected = false;
                     System.out.println(letter + " -egrror...please enter one letter");
                     break;
-            }
-        } while (leterSelected);
-    }
+                }
+            } while (leterSelected);
+        }
 }
 

@@ -12,7 +12,6 @@ public class NegativePositiveNumbersCalculator {
 
         while (scanner.hasNext()) {
             int number = scanner.nextInt();
-
             if (number > 0) {
                 positives++;
                 sum += number;
